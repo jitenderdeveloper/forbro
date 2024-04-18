@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /adin/
+Disallow: /admin/
+Sitemap: https://vihustore.com/sitemap.xml
